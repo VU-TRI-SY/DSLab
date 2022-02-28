@@ -1,0 +1,15 @@
+Thứ 2: 08:25-10:05: Database
+       14:10-15:50: Multimedia Communication(chưa đk) 2 tín
+
+Thứ 3: 06:45-09:10: QS chung và KCT bắn súng AK (27-34,36-43)
+       14:10-17:30: Database Lab
+
+Thứ 4: 07:30-11:30: QS chung và KCT bắn súng AK (28-33)
+       14:10-15:50: Web Information System (chưa đk) 2 tín
+
+Thứ 5: 06:45-08:15: Computer Architecture
+       12:30-14:45: Software Engineering (chưa đk) 2 tín
+       16:00-17:30: Computer Network
+
+Thứ 6: 06:45-09:10 hoặc 09:20-11:45: Tư tưởng Hồ Chí Minh(chưa đk) 2 tín
+       14:10-17:30: Assembly Language and Computer Architecture Lab
